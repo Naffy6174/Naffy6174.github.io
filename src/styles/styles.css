@@ -1,9 +1,32 @@
 h1 {
-    color: blue;
-    margin: 50px;
+    color: blue;  
 }
 
-#titlebox {
+img{
+    width: 250px;
+    height: auto;
+
+}
+body {
+    background-color: violet
+    margin: 0 auto;
+    text-align: center;
+}
+
+#titleBox {
     background-color: blueviolet;
-align-content: center;
+    margin: 30px;
+    border: 2px solid whitesmoke;
+
+}
+
+.listBoxIngredients {
+    background-color: aquamarine;
+    margin: 35px;
+    border: 1px dotted purple;
+}
+.listBoxMethod {
+    background-color:purple;
+    margin: 35px;
+    border: 1px dotted aquamarine;
 }
