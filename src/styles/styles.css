@@ -1,3 +1,9 @@
 h1 {
     color: blue;
 }
+
+#titlebox {
+    background-color: blueviolet;
+    margin: 30px;
+    border: 2px solid white;
+}
